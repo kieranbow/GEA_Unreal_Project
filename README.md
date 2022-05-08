@@ -12,7 +12,8 @@ Non Physically Based effects using shaders and to combine them together to creat
 The systems were developed mainly in Unreal Engine 4 and Unity and some experimenting was done in Panda3D. This repository only reflects the Unreal Engine version of the project since this is the most feature complete.
 
 ## Examples
-Here are some examples of the shaders developed for the module.
+Here are some examples of the shaders developed for the module. 
+As well here is a video showcasing all the shaders made: [Video](https://youtu.be/ADcxt8m4sZs)
 
 ### Surface Shaders
 #### Toon Shader
